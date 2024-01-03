@@ -1,27 +1,28 @@
-## DisCO
+## DisCO: Portrait Distortion Correction with Perspective-Aware 3D GANs
 [Project](https://portrait-disco.github.io/) | [arXiv paper](https://arxiv.org/abs/2302.12253)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lightChaserX/DisCO)
 
-This repository provides the official implementation of the following paper
+This repository enables manipulating the camera-to-face distance and focal length of portraits
 
-### DisCO: Portrait Distortion Correction with Perspective-Aware 3D GANs, IJCV, 2024
 
-[Zhixiang Wang](https://lightchaserx.github.io/), [Yu-Lun Liu](https://yulunalexliu.github.io/), [Jia-Bin Huang](https://jbhuang0604.github.io/), [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/index.html), [Sizhuo Ma](https://sizhuoma.netlify.app/),   
-[Guru Krishnan](https://research.snap.com/team/team-member.html#guru-krishnan), [Jian Wang](https://jianwang-cmu.github.io/)
+[Zhixiang Wang](https://lightchaserx.github.io/)<sup>1,2</sup>, [Yu-Lun Liu](https://yulunalexliu.github.io/)<sup>3</sup>, [Jia-Bin Huang](https://jbhuang0604.github.io/)<sup>4</sup>, [Shin'ichi Satoh](http://research.nii.ac.jp/~satoh/index.html)<sup>2,1</sup>, [Sizhuo Ma](https://sizhuoma.netlify.app/)<sup>5</sup>,   
+[Guru Krishnan](https://research.snap.com/team/team-member.html#guru-krishnan)<sup>5</sup>, [Jian Wang](https://jianwang-cmu.github.io/)<sup>5</sup>
+
+<sup>1</sup>University of Tokyo&nbsp;&nbsp;<sup>2</sup>NII&nbsp;&nbsp;<sup>3</sup>NYCU&nbsp;&nbsp;<sup>4</sup>University of Maryland, College Park&nbsp;&nbsp;<sup>5</sup>Snap Inc. 
+
+<img width="667" alt="image" src="https://github.com/lightChaserX/DisCO/assets/11884079/69cc113e-5e9d-48d2-8a3c-d89f4ee65fc3">
 
 ### Update
 
 - **2023.01.03**: Repo is released.
 - **2023.01.03**: Paper is accepted to IJCV.
 
-
 ### TODO
 
 - [ ] Code release (end of Jan)
 - [ ] Killer video release (end of Jan)
 - [ ] Hugging Face demo release (end of Jan)
-
 
 ## Citation
 
