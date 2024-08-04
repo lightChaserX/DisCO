@@ -20,9 +20,9 @@ This repository enables manipulating the camera-to-face distance and focal lengt
 
 ### TODO
 
-- [ ] Code release (end of Jan)
-- [ ] Killer video release (end of Jan)
-- [ ] Hugging Face demo release (end of Jan)
+- [ ] Code release (end of August)
+- [ ] Killer video release (end of September)
+- [ ] Hugging Face demo release (end of September)
 
 ## Citation
 
