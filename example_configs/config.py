@@ -42,7 +42,7 @@ input_data_id = 'wild'
 pti_results_keyword = 'v1-random-init0.3'
 
 ## Paths
-unprocessed_folder = '/net/per610a/export/das18a/satoh-lab/wangzx/src/Perspective/publication_filtered_undistorted_1000x750_sample_simple_final/all'       ## where the unprocessed image
+unprocessed_folder = '/path/to/unprocessed/images'       ## where the unprocessed image
 input_data_path = f'../../data/{input_data_id}/crop'  ## where the processed image
 eg3d_dir = '/net/per610a/export/das18a/satoh-lab/wangzx/src/Perspective/eg3d'
 deep3d_path = f'{eg3d_dir}/dataset_preprocessing/ffhq/Deep3DFaceRecon_pytorch'
