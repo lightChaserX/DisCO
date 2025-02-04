@@ -62,6 +62,8 @@ dist/
 # Ignore images/videos
 *.mp4
 
+*.pkl
+
 # Ignore database and credentials
 *.sqlite3
 *.db
@@ -75,3 +77,4 @@ config/local_settings.py
 
 # ignore specific folder
 exp/
+pretrained_models/

@@ -67,7 +67,7 @@ conda env create -f environment.yml
 1. Modify `example_configs/config.py` accordingly, including the path to input images, pre-trained model weight, etc
 2. Process your data
 ```
-python process_in_one_time.py
+python process_in_one_time.py example_configs/config.py
 ```
 3. Run the following command
 ```

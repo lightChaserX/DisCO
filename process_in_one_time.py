@@ -55,10 +55,10 @@ def unrename():
 
 
 if __name__ == '__main__':
-    paths_config = load_config('example_configs/config_exp_x.py')
+    paths_config = load_config(sys.argv[1])
 
     folder = paths_config.unprocessed_folder
-    final_folder = os.path.dirname(paths_config.input_data_path) ## where the processed image
+    final_folder = os.path.dirname(paths_config.input_data_path).replace('../../', './') ## where the processed image
     if not folder.endswith('/'):
         folder += '/'
 
