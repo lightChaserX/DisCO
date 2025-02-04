@@ -1,0 +1,77 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+*.tmp
+*.pid
+
+# Ignore Python files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore compiled code
+*.class
+*.o
+*.so
+*.out
+*.exe
+*.dll
+
+# Ignore virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Ignore IDE/editor config files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Ignore Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Ignore Java dependencies
+*.jar
+*.war
+*.ear
+target/
+
+# Ignore temporary files
+*.~*
+*.orig
+*.rej
+*.bak
+
+# Ignore build directories
+/build/
+dist/
+*.egg-info/
+
+# Ignore images/videos
+*.mp4
+
+# Ignore database and credentials
+*.sqlite3
+*.db
+*.env
+config/local_settings.py
+
+# Ignore macOS system files
+*.DS_Store
+*.AppleDouble
+
+
+# ignore specific folder
+exp/
